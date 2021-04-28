@@ -16,7 +16,7 @@
   <exec_depend>control_msgs</exec_depend>
   <exec_depend>industrial_msgs</exec_depend>
   <exec_depend>industrial_robot_client</exec_depend>
-  <exec_depend>python-rospkg</exec_depend>
+  <exec_depend>python3-rospkg</exec_depend>
   <exec_depend>rospy</exec_depend>
   <exec_depend>sensor_msgs</exec_depend>
   <exec_depend>trajectory_msgs</exec_depend>
