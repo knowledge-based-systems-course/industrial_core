@@ -18,7 +18,7 @@
   <exec_depend>industrial_robot_simulator</exec_depend>
   <exec_depend>industrial_deprecated</exec_depend>
   <exec_depend>industrial_utils</exec_depend>
-  <exec_depend>industrial_trajectory_filters</exec_depend>
+  <!--<exec_depend>industrial_trajectory_filters</exec_depend>-->
 
   <export>
     <metapackage/>
